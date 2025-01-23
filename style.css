@@ -1,0 +1,169 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(63, 63, 107);
+    height: 15vh;
+
+    border: 2px solid black;
+    display: flex;
+    position: fixed;
+    border: none;
+}
+
+
+nav {
+    display: flex;
+
+
+}
+
+header h1 {
+    padding: 12px 166px;
+    font-size: 40px;
+    color: white;
+}
+
+.space {
+    display: flex;
+
+    display: flex;
+    margin: 0 183px;
+    border: 2px solid rgb(63, 63, 107);
+
+    width: 486px;
+
+    padding: 0 50px;
+
+
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+
+}
+
+.my-1 {
+    color: white;
+    margin-top: 12px;
+    font-size: 13px;
+}
+
+.my-2 input {
+    width: 29vh;
+
+}
+
+.my-3 {
+    margin: 7px -19px;
+}
+
+.my-3 p {
+    margin: -17px 44px;
+    color: white;
+}
+
+.my-4 {
+    margin: -7px 3px;
+}
+
+.Next {
+    color: white;
+    font-size: 13px;
+    padding-left: 27px;
+    margin-top: 12px;
+}
+
+li button {
+
+    margin: 30px 15px;
+    color: white;
+    padding: 1px 6px;
+    background-color: rgb(156, 156, 172);
+    border: none;
+}
+
+.container {
+    height: 122vh;
+    border: 2px solid  #fff;
+    display: flex;
+
+}
+
+main h3 {
+    margin: 20px 154px;
+    font-weight: lighter;
+}
+
+.container img {
+    margin: -71px 158px;
+
+}
+
+.part-1 {
+    border: 2px solid  #fff;
+    width: 50%;
+    
+}
+
+form {
+    border: 2px solid #fff;
+    width: 40%;
+}
+
+form h1 {
+    padding: 37px 97px;
+}
+
+form p {
+    margin: -31px 104px;
+}
+
+form input {
+
+    padding: 2px 6px;
+    margin: 43px 104px;
+    width: 130px;
+}
+
+#my-1 {
+    margin: -115px 141px;
+
+}
+
+.my-6 {
+    margin: -78px -141px;
+}
+
+.my-6 input {
+    width: 270px;
+}
+
+.my-7 {
+    margin: 0 -140px;
+}
+
+.my-7 input {
+    width: 270px;
+    ;
+}
+
+.my-8 {
+    margin: 0 -137px;
+}
+
+footer {
+    height: 25vh;
+
+    border: 2px solid white;
+    padding-left: 200px;
+    padding-top: 12px;
+}
+
+.cards {
+    display: flex;
+
+}
